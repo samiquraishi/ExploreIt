@@ -1,4 +1,3 @@
-
 ## **ExploreIt**
 
 A lightweight and interactive web application for exploring Wikipedia content. It allows users to search for topics, browse random recommendations, and seamlessly toggle between light and dark modes for an optimized user experience.
@@ -21,21 +20,13 @@ A lightweight and interactive web application for exploring Wikipedia content. I
 
 ---
 
+## **Demo**
+
+Experience ExploreIt live at: [ExploreIt](https://explore-it.netlify.app/)
+
+---
+
 ## **How to Run the Project**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd your-repository-name
-   ```
-3. Open the `index.html` file in your browser to view the application.
-
----
-
-## **Acknowledgments**
-- Thanks to [Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page) for providing the data.
-- Inspired by the idea of creating accessible and interactive web tools.
-
----
+   git clone [https://github.com/yourusername/your-repository-name.git](https://github.com/yourusername/your-repository-name.git)
